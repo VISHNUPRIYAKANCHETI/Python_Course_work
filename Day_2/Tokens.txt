@@ -1,0 +1,49 @@
+TOKEN:- A small unit of a programming
+-----
+1)Identifiers
+2)Operators
+3)Keywords
+4)Literals
+5)Puncuators
+
+statements:- A line of code
+----------
+
+Comments:-
+---------
+# -->Single line comment
+"""  """ --> Multi line comment
+
+1)Identifiers:- A name given to the functions, classes, modules, packages
+  -----------
+
+RULES:-
+-----
+i)contains Uppercase, Lowercase, digits, _ 
+ii)No Special character is allowed
+iii) Can starts with lowercase, uppercase, _
+iv)Case Sensitive
+v)Keywords are not allowed
+
+Variables:- Variable is a Container to store the value
+---------
+RULES:-
+-----
+i)contains Uppercase, Lowercase, digits, _ 
+ii)No Special character is allowed
+iii) Can starts with lowercase, uppercase, _
+iv)Case Sensitive
+v)Keywords are not allowed
+
+2)Operators:- Symbols that perform operations
+  ----------
+
+3) Keywords:- keywords are Reserved words.
+   --------
+-->There are 35 keywords
+
+4) Literals:-Constant values assigned to variables.
+   --------
+5) Punctuators:-Symbols like (), {}, [], ,, :,. used for syntax structuring.
+   -----------
+

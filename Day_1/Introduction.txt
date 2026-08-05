@@ -1,0 +1,114 @@
+What is Programming?
+
+-->programming is a set of instructions for a computer to perform a specific task.
+
+What is programming Language?
+
+-->A programming language is a language used to communicate with a computer.
+
+What is Python?
+
+Python is a high-level, interpreted, general purpose programming language created by "GUIDO VAN ROSSUM" --> 1991
+
+
+Features of Python
+-------------------
+1) Simple:-Python has simple syntax
+   -------
+2) Easy to learn:-Python uses simple English - like keywords
+   -------------
+3) High-Level Language:-we don't need to manage computer memory manually. Python takes care of it automatically.
+   -------------------
+4) Interpreted Language:-Python executes the program line by line
+   --------------------
+--> If there is an error, execution stops at that line
+5) Platform Independent:-The same python program works on:
+   --------------------
+-->windows
+-->Linux
+-->macos
+
+6) OOP:(Object Oriented Programming)
+   ---------------------------------
+class: class is a Blueprint which consists of attributes and methods
+-----
+object: Object is an instance of a class(who are using)
+------
+encapsulation: the process of wrapping the data and provides more security
+-------------
+inheritance : Acquiring the properties from parent class to child class (eg:-Instagram features,....)
+------------
+abstraction : Hiding the complexity (eg:-phone pe, flipkart, ....)
+-----------
+polymorphism: same action in different forms 
+------------
+
+7) open source:-Python is free to download and use.
+   -----------
+8) dynamically type programming:-No need to declare data types
+   ----------------------------
+-->It automatically understands the data types.
+
+9) portable:-Python programs can run on different operating systems without modifiactions.
+   --------
+10) Extensive library support
+
+11) strong community support
+
+PROCEDURE-ORIENTED PROGRAMMING(POP):-
+-----------------------------------
+-->Memory allocation is for functions and variables
+
+->A program is divided into functions.
+->when a function is called, memory is allocated for its local variables.
+->After the function finishes, the allocated memory is released automatically.
+
+EXAMPLE
+-------
+
+def display():
+	x=10
+	print(x)
+display()
+
+Memory Flow:-
+-----------
+
+	display() is called
+		|
+	Memory is allocated for x
+		|
+	display() finishes
+		|
+	Memory is released
+
+OBJECT-ORIENTED PROGRAMMING(OOP):-
+--------------------------------
+-->In OOP, memory is allocated for objects.
+
+->A program is divided into classes and objects.
+->A class is only a blueprint, so no memory is allocated when the class is created.
+->Memory is allocated only when an object is created.
+->The object can access the data members and methods of the class.
+
+Example:-
+-------
+
+class Student:
+	def __init__(self):
+		self.name="Vishnu"
+s1=Student()
+
+Memory Flow
+-----------
+	class student
+	     |
+     No memory allocation
+	     |
+     Object s1 is created
+	     |
+  Memory is allocated for s1
+
+--->In OOP, memory is allocated only when an object is created.
+
+
