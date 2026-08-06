@@ -1,0 +1,79 @@
+DATA TYPES:-
+----------
+
+1)NUMERICAL DATA TYPES:- int, float, complex
+  --------------------
+
+i) Integer:- It consists value
+   --------
+ii) Float:- It consists of decimal values
+    -----
+   Eg:- prices, CGPA, ....
+iii) Complex:- It consists of real and imaginary parts
+     -------
+   Eg:- 1+2j
+
+2)SEQUENTIAL DATA TYPES:- String, List, Tuple
+  ---------------------
+
+i) String:- It is a collection of characters encloses between "" or ''
+   ------
+PROPERTIES:-
+----------
+--> Immutable   --- We cannot change within its object reference
+--> Ordered
+--> Allows Duplicate
+--> 
+ii) List:- It is a collection of elements encloses between []
+    ----
+PROPERTIES:-
+----------
+--> Mutable   
+--> Ordered
+--> Allows Duplicate
+--> Heterogeneous
+--> Dynamic Size
+
+iii) Tuple:- It is a collection of elements encloses between ()
+     -----
+PROPERTIES:-
+----------
+--> Immutable   
+--> Ordered
+--> Allows Duplicate
+--> Heterogeneous
+--> Fixed Size
+
+3)MAPPING DATA TYPES:- Set, Dictionary, frozenset
+  ------------------
+i) Set:- It is a collection of elements encloses between {}
+   ---
+PROPERTIES:-
+----------
+--> Mutable   
+--> Unordered
+--> It doesn't allows Duplicate
+--> Heterogeneous
+--> Dynamic Size
+
+ii) Dictionary:- It is a collection of key value pairs and encloses between {}
+    ----------
+PROPERTIES:-
+----------
+--> Mutable   
+--> Ordered
+--> Allows Duplicate
+--> Heterogeneous
+--> Dynamic Size
+
+iii) Frozenset:-
+     ---------
+-->Immutable, Unordered, collection of unique elements
+
+4)Boolean:- It consists of 2 values 
+  -------
+i)True
+ii)False
+
+5) None Type:- It is empty
+   ---------
