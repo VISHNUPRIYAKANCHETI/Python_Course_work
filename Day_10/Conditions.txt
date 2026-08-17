@@ -1,0 +1,43 @@
+conditional statements
+----------------------
+1.simple if :- Only one condition and one action
+2.if else  :- One condition two actions
+3.elif ladder :- More than one condition
+4.nested if :- Condition inside a condition
+
+syntax:-
+-------
+1)simple if :-
+  ---------
+  if cond :
+    #statement
+
+2)if else:-
+  -------
+  if cond:
+    #stmt -->True
+  else:
+    #stmt -->False
+
+3)elif ladder:-
+  -----------
+  if cond:
+    #s1
+  elif cond:
+    #s2
+  elif cond:
+    #s3
+  .......
+  else:
+    #stmt 
+
+4)Nested if:-
+  ---------
+  if cond:
+    if cond2:
+        #stmt
+    else:
+  elif cond:
+      #stmt
+  else:
+
