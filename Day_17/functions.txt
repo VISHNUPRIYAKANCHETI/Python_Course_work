@@ -1,0 +1,13 @@
+Functions:-function is a block of reusable code which is used to perform specific task
+=========
+Functions Properties:-
+--------------------
+1-Code Reusability - Write a block of code once and use it multiple times
+2-Avoid Code Repetition - Functions prevent us from writing the same logic again and again
+3-Better Readability - Functions make the program easier to read and understand
+4-Easy Debugging - Errors can be identified and fixed inside a particular function
+5-Easy Maintenance - Changes can be made in one function without modifying the entire program
+6-Modularity - A large program can be divided into small units
+7-Reduce Program Complexity - Functions break a complicated problem into smaller and simple tasks
+8-Easy Testing - Each function can be tested seperately to check whether it works correctly
+9-Easy Error Handling - problems can be isolated to a particular function, making errors easier to manage
